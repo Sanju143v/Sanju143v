@@ -1,5 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-blue" />
+  <img src="https://img.shields.io/badge/Status-Learning-green" />
+  <img src="https://img.shields.io/badge/Goal-Consistency-orange" />
+</p>
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1f1c2c&height=260&section=header&text=Sanjay%20V&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=35" />
 </p>
 
@@ -65,6 +70,14 @@ I believe in learning by doing, and turning ideas into real projects.
 - JavaScript  
 
 ---
+# 🧪 Experiment Zone
+
+I like trying small ideas and turning them into projects.
+
+Future ideas:
+- AI-based tools  
+- Real-world problem solvers  
+- Productivity tools  
 
 <!-- ===================== SKILLS ===================== -->
 # 🧠 Skills
@@ -154,3 +167,4 @@ while(alive){
 <p align="center">
   ⚡ Building step by step. Improving every day.
 </p>
+![Snake animation](https://github.com/Sanju143v/snake-game/blob/output/snake.svg)
