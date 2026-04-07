@@ -1,89 +1,138 @@
-<!-- 🌊 PREMIUM BANNER -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Sanjay%20V&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1f1c2c&height=260&section=header&text=Sanjay%20V&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- 🔥 TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=CSE+Student;Building+Real+Projects;Learning+by+Doing;Exploring+Different+Career+Paths" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=CSE+Student;Builder+of+Real+Projects;Learning+by+Doing;Future+Focused;Consistency+>+Motivation" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
-- 🎓 Computer Science Engineering Student  
-- 💡 Focused on building **real, usable projects**  
-- 📈 Constantly improving problem-solving & development skills  
-- ⚡ Exploring tech, freelancing & alternative career paths  
+<!-- ===================== INTRO ===================== -->
+# 👨‍💻 Hello, I'm Sanjay
+
+<p>
+I am a Computer Science Engineering student focused on building practical applications and improving consistently.  
+I believe in learning by doing, and turning ideas into real projects.
+</p>
 
 ---
 
+<!-- ===================== QUICK INFO ===================== -->
+## ⚡ Quick Info
+
+- 🎓 CSE Student  
+- 💻 Focus: Web Development + Practical Projects  
+- 🧠 Learning: Problem Solving & Real-world Applications  
+- 🚀 Goal: Build strong, useful, real projects  
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
 # 🚀 Featured Projects
 
+---
+
 ## 🌐 English to Kannada Translator
-🔗 https://english-to-kannada-translator-4-omoa.onrender.com  
-- Converts English text into Kannada instantly  
-- Clean and simple UI  
-- Built using core web technologies  
+
+🔗 Live: https://english-to-kannada-translator-4-omoa.onrender.com  
+
+📌 Features:
+- Instant translation  
+- Clean UI  
+- Easy to use  
+
+🛠️ Tech:
+- HTML  
+- CSS  
+- JavaScript  
 
 ---
 
 ## 📊 Attendance Tracker System
-🔗 https://attendance-tracker-6-xysf.onrender.com  
-- Tracks attendance and calculates percentages  
-- Helps students manage academic requirements  
-- Simple and effective interface  
+
+🔗 Live: https://attendance-tracker-6-xysf.onrender.com  
+
+📌 Features:
+- Attendance tracking  
+- Percentage calculation  
+- Simple interface  
+
+🛠️ Tech:
+- HTML  
+- CSS  
+- JavaScript  
 
 ---
 
-# 🧠 Skills Visualization
+<!-- ===================== SKILLS ===================== -->
+# 🧠 Skills
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+<!-- ===================== STATS ===================== -->
+# 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanju143v&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanju143v&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
+<!-- ===================== GRAPH ===================== -->
 # 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanju143v&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanju143v&theme=react-dark" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake (Auto Animation)
-![snake gif](https://github.com/Sanju143v/snake-game/blob/output/github-contribution-grid-snake.svg)
+<!-- ===================== TIMELINE ===================== -->
+# 🧭 Developer Timeline
+
+- Started learning programming  
+- Built first mini projects  
+- Created real-world applications  
+- Improving consistency daily  
 
 ---
 
+<!-- ===================== MINDSET ===================== -->
 # ⚡ Developer Mindset
+
 ```
 while(alive){
-   learn();
-   build();
-   improve();
-   repeat();
+    learn();
+    build();
+    fail();
+    improve();
 }
 ```
 
 ---
 
-# 🧭 My Direction
-I am focused on:
-- Building practical applications  
-- Improving consistency  
-- Exploring opportunities beyond traditional paths  
+<!-- ===================== PERSONAL BRAND ===================== -->
+# 🧠 What Makes Me Different
+
+- I focus on building instead of just watching tutorials  
+- I prefer simple and useful solutions  
+- I am consistent even when motivation is low  
 
 ---
 
+<!-- ===================== CONNECT ===================== -->
 # 🌐 Connect With Me
+
 <p align="center">
   <a href="mailto:svsanju341@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/sanjay-v-403966286/">💼 LinkedIn</a> •
@@ -92,7 +141,16 @@ I am focused on:
 
 ---
 
-# 👀 Profile Views
+<!-- ===================== VISITOR ===================== -->
+# 👀 Visitors
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sanju143v&color=blue&style=flat-square" />
+</p>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  ⚡ Building step by step. Improving every day.
 </p>
